@@ -78,7 +78,6 @@ HelloHere는 외국인 관광객과 현지 시민을 AI 기술과 실시간 위�
 - **AWS API Gateway** - API 관리  
 - **AWS CloudFront** - CDN  
 - **AWS Amplify** - 프론트엔드 배포  
-- **Docker** - 컨테이너화  
 
 ---
 
